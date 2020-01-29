@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xookaewahz.magic-tg.ch/sitemap.xml
